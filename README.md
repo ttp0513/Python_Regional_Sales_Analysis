@@ -1,6 +1,6 @@
 # Regional Sales Analysis Project (Python, MySQL, PowerBI)
 
-An end-to-end data analytics project that demonstrates the full lifecycle of sales data analysis—from raw data ingestion to business intelligence reporting. Built using **Python**, **MySQL**, and **Power BI**, this project showcases real-world techniques for cleaning, transforming, analyzing, and visualizing sales data.
+An end-to-end data analytics project that demonstrates the full lifecycle of sales data analysis, from raw data ingestion to business intelligence reporting. Built using **Python**, **MySQL**, and **Power BI**, this project showcases real-world techniques for cleaning, transforming, analyzing, and visualizing sales data.
 
 ## 🧭 Table of Contents
 
@@ -15,8 +15,8 @@ An end-to-end data analytics project that demonstrates the full lifecycle of sal
   - [5. Exploratory Data Analysis](#5-exploratory-data-analysis)
   - [6. Power BI Dashboard](#6-power-bi-dashboard)
 - [📸 Dashboard Preview](#-dashboard-preview)
-- [📥 Getting Started](#-getting-started)
-- [📚 References](#-references)
+- [📥 Insights](#-insights)
+
 ---
 
 ## Project Overview
@@ -72,8 +72,5 @@ This project walks through:
 
 > *(Insert screenshot of Power BI dashboard here)*
 
-## 📥 Getting Started
+## 📥 Insights
 
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/pik1989/Sales-Analysis
