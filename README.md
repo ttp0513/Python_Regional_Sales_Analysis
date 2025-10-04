@@ -1,4 +1,4 @@
-# Regional Sales Analysis Project
+# Regional Sales Analysis Project (Python, MySQL, PowerBI)
 
 An end-to-end data analytics project that demonstrates the full lifecycle of sales data analysis—from raw data ingestion to business intelligence reporting. Built using **Python**, **MySQL**, and **Power BI**, this project showcases real-world techniques for cleaning, transforming, analyzing, and visualizing sales data.
 
