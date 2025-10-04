@@ -1,76 +1,78 @@
-# Regional Sales Analysis Project (Python, MySQL, PowerBI)
-
-An end-to-end data analytics project that demonstrates the full lifecycle of sales data analysis, from raw data ingestion to business intelligence reporting. Built using **Python**, **MySQL**, and **Power BI**, this project showcases real-world techniques for cleaning, transforming, analyzing, and visualizing sales data.
-
-## 🧭 Table of Contents
-
-- [🧠 Project Overview](#-project-overview)
-- [🗂️ Folder Structure](#️-folder-structure)
-- [🔧 Tools & Technologies](#-tools--technologies)
-- [🚀 Workflow Steps](#-workflow-steps)
-  - [1. Data Collection](#1-data-collection)
-  - [2. Data Cleaning](#2-data-cleaning)
-  - [3. Data Transformation](#3-data-transformation)
-  - [4. MySQL Integration](#4-mysql-integration)
-  - [5. Exploratory Data Analysis](#5-exploratory-data-analysis)
-  - [6. Power BI Dashboard](#6-power-bi-dashboard)
-- [📸 Dashboard Preview](#-dashboard-preview)
-- [📥 Insights](#-insights)
+# Regional Sales Analysis Project
+Tools: Python · MySQL · Power BI
 
 ---
 
-## Project Overview
+## Executive Summary
 
-This project walks through:
+This project simulates a real-world regional sales analysis scenario. It demonstrates my ability to:
 
-- Collecting and importing raw sales data
-- Cleaning and preprocessing using Python
-- Storing and querying structured data in MySQL
-- Performing exploratory data analysis (EDA)
-- Building a dynamic Power BI dashboard for stakeholder insights
+- Clean and transform raw data using Python
+- Structure and query data in MySQL
+- Extract actionable insights through exploratory analysis
+- Build a stakeholder-ready Power BI dashboard
 
-## Folder Structure
+**Goal:** Uncover performance trends, identify inefficiencies, and recommend data-driven strategies to improve regional sales outcomes.
 
+---
 
-## 🔧 Tools & Technologies
+## Table of Contents
 
-| Tool               | Purpose                          |
-|--------------------|----------------------------------|
-| Python             | Data cleaning, transformation    |
-| Pandas             | Tabular data manipulation        |
-| Matplotlib & Seaborn | Visualizations for EDA         |
-| MySQL              | Data storage and querying        |
-| Power BI           | Dashboard creation               |
+- [📊 Business Context](#-business-context)
+- [🛠️ Technical Workflow](#-technical-workflow)
+- [📌 Key Deliverables](#-key-deliverables)
+- [📸 Dashboard Preview](#-dashboard-preview)
+- [📚 Tools Used](#-tools-used)
 
-## 🚀 Workflow Steps
+---
 
-### 1. Data Collection
-- Raw sales data sourced from CSV files
-- Loaded into Python for initial inspection
+## 📊 Business Context
 
-### 2. Data Cleaning
-- Handled missing values, duplicates, and inconsistent formats
-- Standardized column names and data types
+### Problem Statement
+Despite strong national sales figures, the company's sales team often lacks a clear, data-driven understanding of how performance varies across U.S. regions. This gap in visibility makes it difficult to identify growth opportunities, allocate resources effectively, and respond to market shifts.
 
-### 3. Data Transformation
-- Created new features (e.g., revenue, profit margin)
-- Aggregated data by region, product category, and time
+### Business Challenges
+- Revenue and profitability fluctuate inconsistently across regions, with no centralized view of performance drivers.
 
-### 4. MySQL Integration
-- Structured cleaned data into relational tables
-- Executed SQL queries for deeper insights
+- Seasonal trends, top-selling SKUs, and channel-level profitability are obscured by fragmented reporting.
 
-### 5. Exploratory Data Analysis
-- Visualized trends in sales, returns, and regional performance
-- Identified outliers and seasonal patterns
+- Strategic decisions are often reactive rather than proactive due to limited historical insight.
 
-### 6. Power BI Dashboard
-- Built interactive visuals: maps, bar charts, KPIs
-- Enabled drill-downs by region and product category
+### Project Goal
+Leverage 5 years of historical sales data to:
+- Uncover regional trends and performance disparities
+- Evaluate profitability across products, channels, and seasons
+- Pinpoint growth levers and inform resource allocation strategies
+---
 
+## 🛠️ Technical Workflow
+
+| Step | Description |
+|------|-------------|
+| **1. Data Collection** | Consolidated multi-source sales data from Excel files and conducted schema analysis to ensure structural consistency across inputs. |
+| **2. Data Cleaning** | Applied robust preprocessing techniques to remove duplicates, impute missing values, standardize formats, and normalize column structures for analytical readiness. |
+| **3. Data Loading & Initial Exploration** | Loaded cleaned data into Google Colab and used Python for initial profiling, schema validation, and exploratory checks to guide deeper analysis. |
+| **4. Exploratory Data Analysis** | Conducted historical trend analysis to uncover performance patterns, outliers, and correlations. Synthesized findings into clear, stakeholder-ready insights. |
+| **5. Dashboarding & Communication** | Built a live, interactive Power BI dashboard tailored for business users, enabling self-service exploration and supporting strategic conversations through visual storytelling. |
+
+---
+
+## 📌 Key Deliverables
+
+- ✅ Cleaned and structured dataset with engineered features  
+- ✅ SQL queries for slicing data by region, category, and time  
+- ✅ Visualizations highlighting trends, outliers, and seasonal patterns  
+- ✅ Power BI dashboard with actionable insights and recommendations
+
+---
 ## 📸 Dashboard Preview
 
-> *(Insert screenshot of Power BI dashboard here)*
+---
 
-## 📥 Insights
-
+## 🔧 Tools Used
+| Tool | Purpose | |--------------------|----------------------------------|
+| Python | Data cleaning, transformation | 
+| Pandas | Tabular data manipulation |
+| Matplotlib & Seaborn | Visualizations for EDA | 
+| MySQL | Data storage and querying | 
+| Power BI | Dashboard creation |
