@@ -26,8 +26,7 @@ This project simulates a real-world regional sales analysis scenario. It demonst
 
 ---
 
-## 📊 Business Context
-
+## Business Context
 ### Problem Statement
 Despite strong national sales figures, the company's sales team often lacks a clear, data-driven understanding of how performance varies across U.S. regions. This gap in visibility makes it difficult to identify growth opportunities, allocate resources effectively, and respond to market shifts.
 
@@ -45,7 +44,7 @@ Leverage 5 years of historical sales data to:
 - Pinpoint growth levers and inform resource allocation strategies
 ---
 
-## 🛠️ Technical Workflow
+## Technical Workflow
 
 | Step | Description |
 |------|-------------|
@@ -57,7 +56,7 @@ Leverage 5 years of historical sales data to:
 
 ---
 
-## 📌 Key Deliverables
+## Key Deliverables
 
 - ✅ Cleaned and structured dataset with engineered features  
 - ✅ SQL queries for slicing data by region, category, and time  
@@ -65,11 +64,11 @@ Leverage 5 years of historical sales data to:
 - ✅ Power BI dashboard with actionable insights and recommendations
 
 ---
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 
 | Tool | Purpose | 
 |--------------------|----------------------------------|
