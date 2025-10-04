@@ -71,7 +71,8 @@ Leverage 5 years of historical sales data to:
 
 ## 🔧 Tools Used
 
-| Tool | Purpose | |--------------------|----------------------------------|
+| Tool | Purpose | 
+|--------------------|----------------------------------|
 | Python | Data cleaning, transformation | 
 | Pandas | Tabular data manipulation |
 | Matplotlib & Seaborn | Visualizations for EDA | 
