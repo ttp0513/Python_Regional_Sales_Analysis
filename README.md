@@ -1,5 +1,5 @@
 # Regional Sales Analysis Project
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,mysql)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi&titles=true)
 
 ---
 
